@@ -20,5 +20,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Acknowledgments
 
-* Checking out Heroku for deploy web apps
+* Checking out Heroku to deploy web apps
 
