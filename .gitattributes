@@ -1,2 +1,2 @@
-*.ejs linguist-vendored
+views/image-gallery.ejs linguist-vendored
 public/css/image-gallery.css linguist-vendored
