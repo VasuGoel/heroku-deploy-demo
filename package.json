@@ -4,12 +4,21 @@
   "description": "Demo app to test out deployment to heroku",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
+  "keywords": [
+    "vasu goel",
+    "demo",
+    "heroku"
+  ],
   "author": "Vasu Goel",
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4"
-  }
+  },
+  "engines": {
+    "node": "11.10.1"
+  },
 }
