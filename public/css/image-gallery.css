@@ -1,0 +1,44 @@
+
+body{
+	line-height: 1;
+}
+
+.navbar-brand{
+	font-size: 1.5rem;
+}
+
+.jumbotron{
+	margin-top: 80px;
+}
+.jumbotron .h1, .jumbotron h1 {
+    font-size: 63px;
+    /*font-size: 5vw;*/
+}
+.jumbotron p{
+	letter-spacing: 0.8px;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+
+/*******MY AWESOME LOGIC*******/
+
+@media only screen and (max-width: 768px) {
+    .jumbotron .h1, .jumbotron h1 {
+    	font-size: 3rem;
+    }
+    #camera{
+    	font-size: 55px;
+    }
+    .jumbotron p{
+	font-size: 16px;
+	}
+
+}
+
+.img-thumbnail{
+	width: 100%;
+	height: 350px;
+	margin-bottom: 1.8rem;
+}
+
