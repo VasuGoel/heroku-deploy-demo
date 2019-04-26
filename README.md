@@ -2,7 +2,7 @@
 
 Deploying portfolio and bootstrap image gallery front-end projects on heroku.
 
-https://dry-badlands-27198.herokuapp.com/
+https://vasugoel-imagesapp.herokuapp.com/
 
 
 ## Built With
